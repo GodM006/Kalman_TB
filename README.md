@@ -1,4 +1,4 @@
-# Equity Time-Series Modeling Framework
+# Project: Kalman_TB
 
 > The accompanying `Comprehensive_code.ipynb` notebook contains exploratory development and trial iterations.  
 > `Clean Flow` represents the **final, structured, and presentable implementation** of that workflow.
