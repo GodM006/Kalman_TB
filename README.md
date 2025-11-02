@@ -1,7 +1,7 @@
 # Project: Kalman_TB
 
 > The accompanying `Comprehensive_code.ipynb` notebook contains exploratory development and trial iterations.  
-> `Clean Flow` represents the **final, structured, and presentable implementation** of that workflow.
+> `clean_flow_tradebot.ipynb` represents the **final, structured, and presentable implementation** of that workflow.
 
 This repository implements a **machine learning framework** for analyzing and forecasting equity time-series data through signal extraction, feature selection, and explainable model evaluation.  
 The framework integrates **Kalman filtering**, **Bayesian optimization**, and **QuantStats** analysis to assess model reliability and risk-adjusted performance across equities.
